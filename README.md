@@ -1,8 +1,8 @@
-## Getting and Cleaning Data - CourseProject
+# Getting and Cleaning Data - CourseProject
 
 This repository contains the R script and documentation for the Coursera Data Science Track course Getting & Cleaning Data needed to complete the assignment during Week 4 of the course.
 
-# Purpose and goal
+## Purpose and goal
 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
@@ -18,8 +18,10 @@ The goal of the the project was to create an R script called run_analysis.R that
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-###Files 'CodeBook.md' contains information on the variables, data set, transformations and work that was done to tidy up the data
+## Attached Files 
 
-'run_analysis.R' is the code for the R script used to complete the project goals
+- "CodeBook.md" contains information on the variables, data set, transformations and work that was done to tidy up the data
 
-'FinalTidyData.txt' is the output from the 'runAnalysis.R' R script
+- "run_analysis.R" is the code for the R script used to complete the project goals
+
+- "tidy_data.txt" is the output from the 'runAnalysis.R' R script
